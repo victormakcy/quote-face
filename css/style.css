@@ -62,6 +62,7 @@ h1, h2, h3{
 
 #title {
     width: 100%;
+    min-width: 1256px;
     height: 155px;
     background-color: #e0e0e0;
     color: #27868C;
