@@ -184,18 +184,17 @@ footer a {
 
 footer a:hover {
     text-decoration: none;
-    color: #f53232;
+    color: #146a8c;
 }
 
 footer {
-    height: 48px;
+    height: 50px;
     width: 100%;
-    margin: 16px;
-    position: absolute;
+    position: relative;
     text-align: center;
     opacity: 0.7;
     bottom: 0;
-    background-color: #FFFFFF;
+    background-color: #e0e0e0;
     font-family: RobotoCondensed, sans-serif;
 
     -webkit-transition: opacity 250ms ease-in-out;
@@ -211,16 +210,15 @@ footer:hover {
     zoom: 1;
 }
 
-.footer-section {
+.footer {
     float:left;
     font-size: 12px;
     padding: 16px;
 }
 
 #footer-title {
-    width: 60%;
+    width: 70%;
     text-align: left;
-    padding-left:15%;
 }
 
 #footer-links {
